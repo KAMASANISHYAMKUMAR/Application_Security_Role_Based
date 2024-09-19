@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Application_Security_Role_Based
+  profiles:
+    active:
+      - local
